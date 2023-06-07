@@ -1,5 +1,4 @@
 # Uber-Analysis
-Analysis of the boarding behavior of Uber riders
 
 This is an analysis on Uber rides. It seeks to answer some of these questions: 
 
